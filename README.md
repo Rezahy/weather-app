@@ -1,6 +1,7 @@
 # weather_app
 
-A new Flutter project.
+<img src="assets/screenshots/screenshot-1.png" float="left" width=300/>
+<img src="assets/screenshots/screenshot-2.png" float="left" width=300/>
 
 ## Getting Started
 
